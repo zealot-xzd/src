@@ -1,0 +1,18 @@
+1	acsmx:
+2	acsmx.o
+3	g++
+4	-g
+di	acsmx.o
+ghie	-o
+hig	$@
+hgj	acsmx.o:
+hg	acsmx.c
+hg	g++
+hgij	-g
+hgij	-c
+hgij	acsmx.c
+hgij	clean:
+hgiij	rm
+hgighj	*.o
+hgij	acsmx
+简单
